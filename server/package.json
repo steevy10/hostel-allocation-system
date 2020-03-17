@@ -1,0 +1,19 @@
+{
+  "name": "hostel-allocation-system",
+  "version": "1.0.0",
+  "description": "front end and backend development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steevy10/hostel-allocation-system.git"
+  },
+  "author": "uwa uwoghiren",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/steevy10/hostel-allocation-system/issues"
+  },
+  "homepage": "https://github.com/steevy10/hostel-allocation-system#readme"
+}
